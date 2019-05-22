@@ -1,0 +1,12 @@
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-ynoue\ahoraes\2.procedimientos\bin\Debug\netcoreapp3.0\2.procedimientos.exe
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-ynoue\ahoraes\2.procedimientos\bin\Debug\netcoreapp3.0\2.procedimientos.deps.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-ynoue\ahoraes\2.procedimientos\bin\Debug\netcoreapp3.0\2.procedimientos.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-ynoue\ahoraes\2.procedimientos\bin\Debug\netcoreapp3.0\2.procedimientos.runtimeconfig.dev.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-ynoue\ahoraes\2.procedimientos\bin\Debug\netcoreapp3.0\2.procedimientos.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-ynoue\ahoraes\2.procedimientos\bin\Debug\netcoreapp3.0\2.procedimientos.pdb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-ynoue\ahoraes\2.procedimientos\obj\Debug\netcoreapp3.0\2.procedimientos.vbprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-ynoue\ahoraes\2.procedimientos\obj\Debug\netcoreapp3.0\2.procedimientos.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-ynoue\ahoraes\2.procedimientos\obj\Debug\netcoreapp3.0\2.procedimientos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-ynoue\ahoraes\2.procedimientos\obj\Debug\netcoreapp3.0\2.procedimientos.AssemblyInfo.vb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-ynoue\ahoraes\2.procedimientos\obj\Debug\netcoreapp3.0\2.procedimientos.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-procedimientos-ynoue\ahoraes\2.procedimientos\obj\Debug\netcoreapp3.0\2.procedimientos.pdb
